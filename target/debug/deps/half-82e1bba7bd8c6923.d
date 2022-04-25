@@ -1,0 +1,12 @@
+C:\Users\eHealther\rust-freecodecamp\image_adder\target\debug\deps\half-82e1bba7bd8c6923.rmeta: C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\lib.rs C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat.rs C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat\convert.rs C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16.rs C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16\convert.rs C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\slice.rs
+
+C:\Users\eHealther\rust-freecodecamp\image_adder\target\debug\deps\libhalf-82e1bba7bd8c6923.rlib: C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\lib.rs C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat.rs C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat\convert.rs C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16.rs C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16\convert.rs C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\slice.rs
+
+C:\Users\eHealther\rust-freecodecamp\image_adder\target\debug\deps\half-82e1bba7bd8c6923.d: C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\lib.rs C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat.rs C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat\convert.rs C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16.rs C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16\convert.rs C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\slice.rs
+
+C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\lib.rs:
+C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat.rs:
+C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat\convert.rs:
+C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16.rs:
+C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16\convert.rs:
+C:\Users\eHealther\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\slice.rs:
